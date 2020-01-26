@@ -1,0 +1,22 @@
+{
+  "files": {
+    "main.css": "/photowall.github.io/static/css/main.51d10deb.chunk.css",
+    "main.js": "/photowall.github.io/static/js/main.05c1a303.chunk.js",
+    "main.js.map": "/photowall.github.io/static/js/main.05c1a303.chunk.js.map",
+    "runtime-main.js": "/photowall.github.io/static/js/runtime-main.75bf004e.js",
+    "runtime-main.js.map": "/photowall.github.io/static/js/runtime-main.75bf004e.js.map",
+    "static/js/2.9cc03f2a.chunk.js": "/photowall.github.io/static/js/2.9cc03f2a.chunk.js",
+    "static/js/2.9cc03f2a.chunk.js.map": "/photowall.github.io/static/js/2.9cc03f2a.chunk.js.map",
+    "index.html": "/photowall.github.io/index.html",
+    "precache-manifest.fc534af2b361c3001a47157905d11a6e.js": "/photowall.github.io/precache-manifest.fc534af2b361c3001a47157905d11a6e.js",
+    "service-worker.js": "/photowall.github.io/service-worker.js",
+    "static/css/main.51d10deb.chunk.css.map": "/photowall.github.io/static/css/main.51d10deb.chunk.css.map",
+    "static/js/2.9cc03f2a.chunk.js.LICENSE": "/photowall.github.io/static/js/2.9cc03f2a.chunk.js.LICENSE"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.75bf004e.js",
+    "static/js/2.9cc03f2a.chunk.js",
+    "static/css/main.51d10deb.chunk.css",
+    "static/js/main.05c1a303.chunk.js"
+  ]
+}
